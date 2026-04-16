@@ -1,0 +1,41 @@
+{
+  "s3_perfil_faltante": "",
+  "s3_dificil": "Cliente de OUC no entiende que necesita bateria. ",
+  "s4_objecion_real": "",
+  "s4_powerwall": "",
+  "s5_comp_pierde": "",
+  "s5_bundle": "",
+  "s6_oneroof": "",
+  "s6_quietgrid": "",
+  "s6_builtforthis": "",
+  "s6_floridaproofed": "",
+  "s6_fill1": "",
+  "s6_fill2": "",
+  "s6_fill3": "",
+  "s7_obstaculo": "",
+  "s7_hispano": "",
+  "s7_mensaje": "",
+  "s8_insight": "",
+  "s8_insight_why": "",
+  "_personaTags": {
+    "p1_easy": true,
+    "p1_common": true,
+    "p2_profit": true,
+    "p4_sameday": true,
+    "p5_easy": true,
+    "p7_nevercl": true
+  },
+  "_objOrder": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "_checklist": [],
+  "timestamp": "2026-04-16T17:37:05.115Z",
+  "section": 3
+}
